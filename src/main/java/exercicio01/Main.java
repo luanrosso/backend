@@ -1,4 +1,4 @@
-package org.example;
+package exercicio01;
 
 import java.util.Scanner;
 
