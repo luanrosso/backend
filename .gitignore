@@ -36,3 +36,6 @@ build/
 
 ### Mac OS ###
 .DS_Store
+
+### Ignorar src/main/java ###
+/src/main/java/
